@@ -3,7 +3,7 @@ var wordList = [];
 var totalRow = 6;
 var totalCol = 6;
 
-/****************
+/***************
 *** Generate Random number
 *****************/
 var nums = [];
